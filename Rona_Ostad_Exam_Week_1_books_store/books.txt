@@ -1,0 +1,10 @@
+Hasu Amar Hasu | Humayun Ahmed | 1234 | Fiction | 123.0 | 10  
+Dui Duari | Zafar Iqbal | 1324 | Fiction | 320.0 | 5  
+Futonto Golap | Kazi Nazrul  | 4321 | Poetry | 5.99 | 8  
+Chotoder Rupk | Mohammad Nasir  | 2134 | Fairy Tale | 6.99 | 12  
+Noloker Golpo | Sunil Gangopdy| 7471 | Fiction | 9.50 | 6  
+Golper Jhapi | Leela Majumdar | 7273 | Short Stories | 7.99 | 9  
+Boka Jamai | Sarat Chandra  | 1971 | Classic | 6.50 | 11  
+TunTunir Boi | Upendrakishor| 2122 | Children's Book | 5.50 | 20  
+Rahasaymoy  | Satyajit Ray | 3306 | Mystery | 10.99 | 7  
+
